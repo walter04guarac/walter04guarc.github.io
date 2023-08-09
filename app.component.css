@@ -1,0 +1,51 @@
+body {
+  background-color: bisque;
+    background-image: url('https://acortar.link/iAZEIR');
+    background-repeat: no-repeat;
+    background-size: cover;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #474947;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  margin: 0;
+}
+
+
+
+main {
+  padding: 20px;
+}
+.imagen-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center; /* Centrar verticalmente */
+  margin-bottom: 30px;
+}
+
+img {
+  width: 300px;
+  height: auto;
+  margin-bottom: 1rem;
+  display: block; /* Para centrar horizontalmente */
+  margin-left: auto;
+  margin-right: auto;
+  border:3px solid;
+}
+
+
+p {
+  text-align: center;
+  background-color: rgb(0, 0, 0);
+  border: 3px solid rgb(255, 0, 0);
+  color: white;
+}
